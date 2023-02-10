@@ -2,7 +2,6 @@
 
 <br>
 
-<p>Driven by curiosity, I love to investigate the details of apps and websites to see how they work.</p>
 <p>I'm always seeking ways to incorporate technology into my life and use it to improve people's lives.</p>
 
 <br>
