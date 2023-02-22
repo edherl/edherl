@@ -1,8 +1,6 @@
-### Hi! I'm Edher Antunes 👋
+## Hi! I'm Edher Antunes 👋
 
-##
-
-<p>I'm always seeking ways to incorporate technology into my life and use it to improve people's lives.</p>
+I'm always seeking ways to incorporate technology into my life and use it to improve people's lives.
 
 <br>
 
