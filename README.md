@@ -1,6 +1,6 @@
 ## Hi! I'm Edher Antunes 🙋🏻
 
-I'm always seeking ways to incorporate technology into my life and use it to improve people's lives.
+I have always been fascinated by technology and its potential for transformation. I am constantly looking for ways to incorporate technology into my life.
 
 <br>
 
