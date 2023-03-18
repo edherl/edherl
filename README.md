@@ -1,4 +1,4 @@
-## Hi! 🙋🏻
+## Hello! 👋🏻
 
 I have always been fascinated by technology and its potential for transformation. I am constantly looking for ways to incorporate technology into my life.
 
