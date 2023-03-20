@@ -4,7 +4,7 @@ I have always been fascinated by technology and its potential for transformation
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edherl&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=edherl&theme=blue-purple)
 
 <div style="display: inline_block">
   <br>
