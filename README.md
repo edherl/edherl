@@ -4,7 +4,8 @@ I have always been fascinated by technology and its potential for transformation
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edherl&hide=php&theme=tokyonight"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edherl&hide=php&theme=tokyonight"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edherl&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <div style="display: inline_block">
   <br>
