@@ -1,6 +1,6 @@
 ## Hello! 👋🏻
 
-I'm a technology enthusiast. I'm constantly looking for ways to incorporate technology into my life.
+I'm a technology enthusiast who is constantly looking for ways to incorporate it into my life.
 
 </br>
 
