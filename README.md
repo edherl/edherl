@@ -1,6 +1,6 @@
 ## Hello! 👋🏻
 
-I have always been fascinated by technology and its potential for transformation. I am constantly looking for ways to incorporate technology into my life.
+I am a technology enthusiast. I'm constantly looking for ways to incorporate technology into my life.
 
 </br>
 
