@@ -1,4 +1,4 @@
-## Hello! 👋🏻
+## Hello 👋🏻
 
 I'm a technology enthusiast who is constantly looking for ways to incorporate it into my life.
 
