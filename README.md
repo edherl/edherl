@@ -1,6 +1,6 @@
 ## Hello 👋🏻
 
-I'm a technology enthusiast who is constantly looking for ways to incorporate it into my life.
+I'm a technology enthusiast who is constantly looking for ways to incorporate it into my life. I'm looking to expand this passion into my professional career. I have a passion for creating innovative products and engaging features that users can experience, interact with, and discuss on a website or web application.
 
 </br>
 
